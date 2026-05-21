@@ -78,3 +78,23 @@ CALCULATE(
     COUNT(sales[Order_ID]),
     sales[Profit] < 0
 )
+
+Business Insights :
+>Identified high loss-making cities
+>Analyzed profitable product categories
+>Tracked monthly sales performance
+>Compared shipping mode performance
+>Identified top-performing products and customers
+
+project Outcome :
+
+This dashboard helps business stakeholders:
+
+>Monitor sales performance
+>Reduce business losses
+>Identify profitable products and regions
+>Improve business decision-making using data insights
+
+
+Author
+TAMIL SELVAN
