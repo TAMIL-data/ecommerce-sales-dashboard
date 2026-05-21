@@ -79,12 +79,16 @@ CALCULATE(
     sales[Profit] < 0
 )
 
+
+
 ## Business Insights :
 -Identified high loss-making cities
 -Analyzed profitable product categories
 -Tracked monthly sales performance
 -Compared shipping mode performance
 -Identified top-performing products and customers
+
+
 
 ## project Outcome :
 This dashboard helps business stakeholders:
